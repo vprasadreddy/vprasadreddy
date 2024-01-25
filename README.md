@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vara Prasad Reddy
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on React JS
+- 👀 I’m interested in DevOps & Web Development
 
 <!---
 vprasadreddy/vprasadreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
