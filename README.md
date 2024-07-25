@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vara Prasad Reddy
-- 👀 I’m interested in DevOps & Web Development
+- 👀 I’m a Cloud & DevOps Engineer
 
 <!---
 vprasadreddy/vprasadreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
